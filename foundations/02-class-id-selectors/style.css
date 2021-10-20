@@ -1,0 +1,16 @@
+.pink {
+    background-color:rgb(211, 139, 151);
+    font-family: Veranda, sans-serif;
+}
+.third {
+    font: size 24px;
+}
+#bluetext {
+    color: blue;
+    font-size: 36px;
+}
+#greenbg {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
